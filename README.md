@@ -19,6 +19,6 @@ Key Features:
 
 
 Tools Used:
-Power BI Desktop
-DAX for calculated measures
+Power BI Desktop, 
+DAX for calculated measures, 
 Data Source: Mysql
